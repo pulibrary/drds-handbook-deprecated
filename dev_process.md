@@ -1,0 +1,15 @@
+- Monday: 
+    - Go through the waffle.io board for each project. Prioritize issues.
+    - Check Honeybadger and create Github issues if necessary; add a label.
+- Daily: 
+    - Stand up meeting through out the week to give an update on what each member of the team is working on.
+    - Open issues in Github (check if there is a similar issue to avoid duplicates).
+    - Ask in Slack to review, comment, merge on a pull request you've opened. 
+    - Have a test for each pull request.
+    - Use Github or Slack to discuss on an issue.
+    - Do not merge your own pull request somebody else will do that.
+    - Use Rubocop to review your syntax and be consistent with empty lines or trailing spaces.
+    - Pair coding/review if needed.
+- Friday: wrap up the weekly progress.
+- Use Google drive to create documentation relevant to the projects.
+- Use Google drive to get more information about the workflow of specific projects.
