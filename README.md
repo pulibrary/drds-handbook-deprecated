@@ -1,5 +1,6 @@
 # Digital Repository and Discovery Services Team Handbook
 
 1. [Dev Process](/dev_process.md)
-2. [Runner](/runner.md)
-3. [Technical Lead](/technical_lead.md)
+1. [List of Applications](/applications.md)
+1. [Runner](/runner.md)
+1. [Technical Leads](/technical_leads.md)

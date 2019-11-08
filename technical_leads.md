@@ -27,16 +27,4 @@ As a team we’ve intended to cross-train on codebases as much as possible, but 
 1. Transfer knowledge of the product to other team members through training,
    pairing, documentation, and other means. You should never be the only one who can troubleshoot and maintain the code base.
 
-## Assigned Technical Leads
-* Figgy: Trey
-* Pomegranate: Trey, transfer to Anna
-* Marc Liberation: Nikitas, transfer to Christina
-* Orangetheses: Nikitas
-* Orangelight: Nikitas
-* PULMap: Eliot
-* PULBot/Heaven: Trey, transfer to Christina
-* LAE-Blacklight: Trey, transfer to Anna
-* Cicognara-Rails: Esme, transfer to Trey
-* PUL-Solr: Nikitas, transfer to Eliot
-* DSpace: James
-* Plantain: James
+See assigned technical leads at [List of Applications](https://github.com/pulibrary/app_team_handbook/blob/master/applications.md)
