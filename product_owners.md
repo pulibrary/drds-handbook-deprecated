@@ -1,0 +1,27 @@
+# Product Owners
+
+We strive for each of our applications to have a product owner (PO). The product
+owner is usually a key stakeholder for the application who can collaborate
+closely with us to guide development. In working with our team, product owners
+should be familiar with our [work cycles](/work_cycles.md) and our [technical lead role](/technical_leads.md).
+
+The exact practices of each product owner will very according to the application and the
+individuals themselves. Our hope is that product owners will be able to:
+
+* Communicate with other stakeholders and users as-needed, either ad-hoc as a committee.
+* Participate during relevant work cycles by attending the planning meeting and
+  wrap-up meeting when the PO's application is a focus of the cycle.
+* Work with the technical lead to prioritize and specify issues. It is helpful
+  for the PO to have a github account.
+* Be available on slack during a relevant work cycle to answer questions and
+  give feedback.
+
+The DRDS team will work to:
+
+* Provide appropriate notice to a PO when a relevant work cycle is upcoming, at least 1 week before it begins, and earlier if possible.
+* Ensure planning and wrap-up meeting agendas provide times during which POs can
+  expect topics to be focused on their project.
+* Triage incoming tickets and bug reports.
+* Remain easy to contact on Slack to assist with troubleshooting.
+
+Resources for each application can be found on the [list of applications](/applications.md).
