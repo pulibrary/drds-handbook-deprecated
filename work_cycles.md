@@ -3,8 +3,7 @@
 ## Work Cycles
 
 Our team works in 2-week cycles, aka "sprints". We usually split into 2 sub-teams in each
-cycle, with each sub-team working on a different application or project. This means that we do not work on every application
-at all times.
+cycle, with each sub-team working on a different application or project. This means that we work on a prioritized subset of applications for each sprint.
 
 We track all our work in github issues and zenhub boards. Each project has a github repository. In most cases the issues from that repository are organized into columns on the corresponding zenhub board. These resources are listed on the [List of Applications](https://github.com/pulibrary/app_team_handbook/blob/master/applications.md)
 
@@ -16,7 +15,7 @@ board. We order them roughly by priority. Over the course of the cycle individua
 ## Communication
 
 Our team communicates primarily over slack. This allows us to quickly and easily
-reach out to one another and to product owners and other stakeholders. While writing code often happens individually, software development is a highly collaborative activity. Knowledge about our applications, systems, interfaces, users, and use cases are distributed throughout our team and other teams.
+reach out to one another and to product owners and other stakeholders. While writing code often happens individually, software development is a highly collaborative activity. Knowledge about our applications, systems, interfaces, users, and use cases are distributed throughout our team and other teams (such as the Enterprise and User Services team, the Operations team, our product owners who come from many other departments, and the users of our applications).
 
 We use github as outlined above to record use cases, progress on work, and decisions that impact the work on a particular issue.
 
@@ -25,7 +24,7 @@ team culture is to attend meetings with video activated when possible. We also
 use zoom throughout the day to demonstrate software functionality or bugs, or
 when a slack conversation becomes unwieldy.
 
-Finally, we use Google drive record notes for meetings or produce design
+Finally, we use Google drive to record notes for meetings or produce design
 documents.
 
 ## Technical Leads
