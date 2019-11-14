@@ -11,6 +11,7 @@
   * Github repository: [https://github.com/pulibrary/pomegranate]
   * [DPUL Zenhub board](https://app.zenhub.com/workspaces/dpul-5cc9dbb2262a972347170639/board?repos=49439415&showEstimates=false&showReleases=false)
   * Tech lead: [Trey](https://github.com/tpendragon), transfer to [Anna](https://github.com/hackmastera)
+  * Product owner: [Kim](https://github.com/kelea99)
 * Figgy
   * Github repository: [https://github.com/pulibrary/figgy]
   * [Figgy Zenhub board](https://app.zenhub.com/workspaces/figgystudio-5c06d2e24b5806bc2bfa890b/board)
@@ -43,3 +44,4 @@
   * Github repository: [https://github.com/pulibrary/plantain]
   * [Plantain Zenhub board](https://app.zenhub.com/workspaces/plantain-5da4b7d9f037f100019dba23/board?repos=157741631)
   * Tech lead: [James](https://github.com/jrgriffiniii)
+  * Product owners: [Faith](https://github.com/faithc) and [Amanda](https://github.com/apferrar)

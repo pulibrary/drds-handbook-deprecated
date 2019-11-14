@@ -2,17 +2,15 @@
 
 We strive for each of our applications to have a product owner (PO). The product
 owner is usually a key stakeholder for the application who can collaborate
-closely with us to guide development. In working with our team, product owners
-should be familiar with our [work cycles](/work_cycles.md) and our [technical lead role](/technical_leads.md).
+closely with us to guide development. Documentation of our team's [work cycles](/work_cycles.md) and [technical lead role](/technical_leads.md) should give product owners useful context for this collaboration.
 
-The exact practices of each product owner will very according to the application and the
-individuals themselves. Our hope is that product owners will be able to:
+The exact practices of each product owner will vary according to the application and the
+individuals themselves. Generally, product owners will work to:
 
 * Communicate with other stakeholders and users as-needed, either ad-hoc as a committee.
 * Participate during relevant work cycles by attending the planning meeting and
   wrap-up meeting when the PO's application is a focus of the cycle.
-* Work with the technical lead to prioritize and specify issues. It is helpful
-  for the PO to have a github account.
+* Work with the technical lead to prioritize and specify issues. Having a GitHub account will enable the PO to be most fully integrated into this process.
 * Be available on slack during a relevant work cycle to answer questions and
   give feedback.
 
