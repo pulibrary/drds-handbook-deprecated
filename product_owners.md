@@ -22,4 +22,4 @@ The DRDS team will work to:
 * Triage incoming tickets and bug reports.
 * Remain easy to contact on Slack to assist with troubleshooting.
 
-Resources for each application can be found on the [list of applications](/applications.md).
+Resources for each application, including technical leads and links to repositories and zenhub boards, can be found on the [list of applications](/applications.md).
