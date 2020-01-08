@@ -40,8 +40,8 @@
 * DSpace
   * Github repository: [https://github.com/pulibrary/dspace]
   * Tech lead: [James](https://github.com/jrgriffiniii)
-* Plantain (arclight)
+* PULFALight (arclight)
   * Github repository: [https://github.com/pulibrary/plantain]
-  * [Plantain Zenhub board](https://app.zenhub.com/workspaces/plantain-5da4b7d9f037f100019dba23/board?repos=157741631)
+  * [PULFALight Zenhub board](https://app.zenhub.com/workspaces/plantain-5da4b7d9f037f100019dba23/board?repos=157741631)
   * Tech lead: [James](https://github.com/jrgriffiniii)
   * Product owners: [Faith](https://github.com/faithc) and [Amanda](https://github.com/apferrar)
