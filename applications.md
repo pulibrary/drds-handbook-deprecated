@@ -10,7 +10,7 @@
 * DPUL, aka Pomegranate
   * Github repository: [https://github.com/pulibrary/pomegranate]
   * [DPUL Zenhub board](https://app.zenhub.com/workspaces/dpul-5cc9dbb2262a972347170639/board?repos=49439415&showEstimates=false&showReleases=false)
-  * Tech lead: [Trey](https://github.com/tpendragon), transfer to [Anna](https://github.com/hackmastera)
+  * Tech lead: [Anna](https://github.com/hackmastera)
   * Product owner: [Kim](https://github.com/kelea99)
 * Figgy
   * Github repository: [https://github.com/pulibrary/figgy]
