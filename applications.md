@@ -26,7 +26,7 @@
   * User-centered slack channel: #digital_library
 * LAE-Blacklight
   * Github repository: [https://github.com/pulibrary/lae-blacklight]
-  * Tech lead: [Trey](https://github.com/tpendragon), transfer to [Anna](https://github.com/hackmastera)
+  * Tech lead: [Trey](https://github.com/tpendragon), transfer to [Eliot](https://github.com/eliotjordan)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 * Maps Portal, aka PULMap
@@ -51,7 +51,7 @@
   * Slack channels: #robots, #devs
 * PUL-Solr
   * Github repository: [https://github.com/pulibrary/pul_solr]
-  * Tech lead: [Nikitas](https://github.com/tampakis), transfer to [Eliot](https://github.com/eliotjordan)
+  * Tech lead: [Nikitas](https://github.com/tampakis), transfer to [Anna](https://github.com/hackmastera)
   * Slack channel: #solr
 * DSpace
   * Github repository: [https://github.com/pulibrary/dspace]
