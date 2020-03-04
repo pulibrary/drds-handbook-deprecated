@@ -56,7 +56,8 @@
 * DSpace
   * Github repository: [https://github.com/pulibrary/dspace]
   * Tech lead: [James](https://github.com/jrgriffiniii)
-  * Slack channel: #operations
+  * Technical slack channel: #operations
+  * User-centered slack channel: #dspace
 * PULFALight (arclight)
   * Github repository: [https://github.com/pulibrary/plantain]
   * [PULFALight Zenhub board](https://app.zenhub.com/workspaces/plantain-5da4b7d9f037f100019dba23/board?repos=157741631)
