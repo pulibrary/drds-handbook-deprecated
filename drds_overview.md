@@ -19,6 +19,7 @@ Our team of 5.5 developers and 1 manager works primarily remotely.
     * [Check-In Notes](https://drive.google.com/drive/folders/0B0EsR7yUWd6dM29EQXJQWWJHa28) for weekly wrap-ups
     * [Post-mortem reports](https://drive.google.com/drive/u/1/folders/1EImhSsuZGQb2VNW2ELLTWrVPWoqdFAg1) after major outages
 * Email for getting input from outside IT, or for longer-form feedback
+  * Our group email address: digital-library@princeton.libanswers.com
 * [Outlook/Exchange email/calendars](https://outlook.office.com/mail/inbox) calendars for internal meetings — please share your calendar with the rest of the team to make it easier to book meetings
 * List-servs:
   * Library-Systems@princeton.edu - goes to all library systems: developers,
