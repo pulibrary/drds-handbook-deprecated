@@ -52,9 +52,9 @@
   * Tech lead: [Nikitas](https://github.com/tampakis)
   * Technical slack channel: #orangelight
   * User-centered slack channel: #catalog
-* Orangetheses
+* Orangetheses - interfacing between DSpace and Orangelight
   * Github repository: https://github.com/pulibrary/orangetheses
-  * Tech lead: [Nikitas](https://github.com/tampakis)
+  * Tech lead: [James](https://github.com/jrgriffiniii)
   * Technical slack channel: #orangelight
   * User-centered slack channel: #catalog
 * PULBot/Heaven - Slack bot for deployments
