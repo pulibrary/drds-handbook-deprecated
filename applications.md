@@ -32,6 +32,7 @@
   * Github repository: https://github.com/pulibrary/figgy
   * [Figgy Zenhub board](https://app.zenhub.com/workspaces/figgystudio-5c06d2e24b5806bc2bfa890b/board)
   * Tech lead: [Trey](https://github.com/tpendragon)
+  * Product owner: [Kim](https://github.com/kelea99)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 * LAE-Blacklight - Latin American Ephemera frontend
