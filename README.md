@@ -9,6 +9,7 @@
 ## Documentation most useful to members of our team
 1. [DRDS Overview](/drds_overview.md) - About our team and how we work together
 1. [Development Practice](/development_practice.md)
+1. [Specifying Issues](/specifying_issues.md)
 1. [Tooling](/tooling.md)
 1. [Runner](/runner.md) - The nature and duties of the rotating "runner" role
 1. [Administrative Resources](/admin_resources.md) - Resources and information about paid time off, travel, expense reporting, etc.
