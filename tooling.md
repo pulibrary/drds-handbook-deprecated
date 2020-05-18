@@ -3,6 +3,7 @@
 ## Development Tooling
 
 * [Github](https://github.com/pulibrary) for code
+  * Use [github-label-maker](https://github.com/pulibrary/github-label-maker) to generate an initial set of labels based on our [label style guide](https://github.com/pulibrary/pul_library_drupal/wiki/Issues-Label-Style-Guide)
 * [CircleCI](https://circleci.com/gh/pulibrary) for CI
 * [Coveralls](https://coveralls.io/github/pulibrary) for test coverage tracking to support high test coverage
 * [Rubocop](https://github.com/bbatsov/rubocop) for style guidelines enforcement
