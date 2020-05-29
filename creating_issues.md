@@ -24,14 +24,17 @@ ask follow-up questions if needed. Following these guidelines will help us under
 ## Feature issues
 * Title
   * Please be clear and concise
-  * E.g. "Ingest images for a single resource"
+  * E.g. "PDF with embedded OCR"
 * Describe your request with a user story
   * A user story follows the format: "As a __ I need __ in order to __"
-  * E.g. "As a digital imaging technicial I need to ingest a directory of images
-    in order to create a resource."
-* Additional description
-  * Tell us more about your thoughts on this feature
-  * E.g. "I'd like to be able to ingest these all at once to save time."
+  * Please be as specific as possible.
+  * E.g. "As a researcher I need to download a PDF with embedded OCR so that I
+    can quickly search for words without having to be online or locate the
+    original resource page"
+* Provide a concrete example
+  * This will help us ensure the feature works for the data you're specifically using, and give us a starting point for development.
+  * E.g. "I need to download a PDF of the Canterbury tales
+    (b07d230f-5eee-4232-afc9-c628017b7d25) and search for the word 'Christ'."
 
 # Related
 * [Triaging Issues](/triaging_issues.md)
