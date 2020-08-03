@@ -7,7 +7,7 @@ Our team of 5.5 developers and 1 manager works primarily remotely.
 * [Slack](https://pulibrary.slack.com/) for quick chats, group discussions, sharing news, asking for feedback/code review, etc.
   * It's good to be generally available on Slack, but it's fine to mute/ignore/turn off as needed
 * [Github](https://github.com/pulibrary) PRs/issues for code review, remembering things for later, recording feedback
-* Zoom to have discussions, daily check-ins, sprint kickoff/wrapup, backlog grooming
+* Zoom to have discussions, daily check-ins, work cycle kickoff/wrapup, backlog grooming
   * If you use outlook, there’s a zoom plugin for outlook which will allow you to add a zoom meeting during scheduling
 * Google Docs for drafting docs, spreadsheets, meeting notes
   * [Request a g-suite account](https://storagemigration.princeton.edu/request_google_account.php)

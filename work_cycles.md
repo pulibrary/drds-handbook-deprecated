@@ -2,8 +2,8 @@
 
 ## Work Cycles
 
-Our team works in 2-week cycles, aka "sprints". We usually split into 2 sub-teams in each
-cycle, with each sub-team working on a different application or project. This means that we work on a prioritized subset of applications for each sprint.
+Our team works in 2-week work cycles. We usually split into 2 sub-teams in each
+cycle, with each sub-team working on a different application or project. This means that we work on a prioritized subset of applications for each cycle.
 
 We track all our work in github issues and zenhub boards. Each project has a github repository. In most cases the issues from that repository are organized into columns on the corresponding zenhub board. These resources are listed on the [List of Applications](https://github.com/pulibrary/app_team_handbook/blob/master/applications.md)
 
