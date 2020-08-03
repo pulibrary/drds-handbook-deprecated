@@ -1,7 +1,7 @@
 # Creating Issues
 
-We offer these guidelines to help product owners and others create issues with a helpful amount of initial information.
-Our tech leads and product owners review each issue that is created, and will
+We offer these guidelines to help Product Owners and others create issues with a helpful amount of initial information.
+Our Technical Liaisons and Product Owners review each issue that is created, and will
 ask follow-up questions if needed. Following these guidelines will help us understand, replicate, and resolve your problem or request.
 
 ## Bug issues

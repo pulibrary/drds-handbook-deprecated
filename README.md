@@ -2,7 +2,7 @@
 
 ## Documentation for general use
 1. [List of Applications](/applications.md)
-1. [Technical Leads](/technical_leads.md)
+1. [Technical Liaisons](/technical_liaisons.md)
 1. [Product Owners](/product_owners.md)
 1. [Work Cycles](/work_cycles.md) - The rhythms and processes of our project work
 1. [Creating Issues](/creating_issues.md)
