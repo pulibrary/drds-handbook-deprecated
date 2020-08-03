@@ -9,7 +9,7 @@ individuals themselves. Generally, product owners will work to:
 
 * Communicate with other stakeholders and users as-needed, either ad-hoc as a committee.
 * Participate during relevant work cycles by attending the planning meeting and
-  wrap-up meeting when the PO's application is a focus of the cycle.
+  Friday wrap-up meeting when the PO's application is a focus of the cycle.
 * Work with the technical liaison to prioritize and specify issues. Having a GitHub account will enable the PO to be most fully integrated into this process.
 * Be available on slack during a relevant work cycle to answer questions and
   give feedback.
