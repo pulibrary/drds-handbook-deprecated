@@ -50,7 +50,7 @@
   * https://catalog.princeton.edu/, https://catalog-staging.princeton.edu/
   * Github repository: https://github.com/pulibrary/orangelight
   * [Orangelight / Marc Liberation Zenhub board](https://app.zenhub.com/workspaces/orangelightmarcliberation-571691cab409d8d821b873be/board?repos=21954918)
-  * Technical liaison: [Nikitas](https://github.com/tampakis)
+  * Technical liaison: [Christina](https://github.com/christinach)
   * Technical slack channel: #orangelight
   * User-centered slack channel: #catalog
 * Orangetheses - interfacing between DSpace and Orangelight
