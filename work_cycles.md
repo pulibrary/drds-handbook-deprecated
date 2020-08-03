@@ -27,10 +27,10 @@ when a slack conversation becomes unwieldy.
 Finally, we use Google drive to record notes for meetings or produce design
 documents.
 
-## Technical Leads
+## Technical Liaisons
 
-Each of our projects has an assigned technical lead. This person will work most
+Each of our projects has an assigned Technical Liaison. This person will work most
 closely with product owners to ensure issues are prioritized appropriately.
-However, many members of our team work on each application and we rotate frequently. We strive to ensure Technical Leads do not become a bottleneck to our process,
+However, many members of our team work on each application and we rotate frequently. We strive to ensure Technical Liaisons do not become a bottleneck to our process,
 and to that end we encourage communication on slack channels rather than individual
-emails. For more information on technical leads, see [Technical Leads](https://github.com/pulibrary/app_team_handbook/blob/master/technical_leads.md)
+emails. For more information on technical liaisons, see [Technical Liaisons](https://github.com/pulibrary/app_team_handbook/blob/master/technical_liaisons.md)
