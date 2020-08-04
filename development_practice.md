@@ -2,7 +2,7 @@
 
 ## Weekly schedule
 - Monday Planning meeting:
-  - This meeting is guided by a running agenda populated with specific issues (in the GitHub sense) based on the previous week's triaging, inbox triaging performed by individuals, or other specific questions.  Non-DRDS attendees go first with their agenda items so they can leave early if needed.  All other tickets are gone through in the order in which they are added to the agenda.
+  - This meeting is guided by a running agenda populated with specific GitHub issues based on the previous week's triaging, inbox triaging performed by individuals, or other specific questions.  Non-DRDS attendees go first with their agenda items so they can leave early if needed.  All other tickets are discussed in the order in which they are added to the agenda.
 - Daily:
   - Check-in meetings: These are daily standups in the [Agile definition](https://www.tutorialspoint.com/agile/agile_daily_standup.htm).  Each attendee shares what they've been working on and what they plan to work on next, as well as any blockers or questions.  These meetings serve as status updates, and team members will coordinate additional discussion outside of the meeting.  Non-DRDS attendees give their updates first so that they can leave early if needed.
   - Self-assign an issue from the ready column for the project you're working
