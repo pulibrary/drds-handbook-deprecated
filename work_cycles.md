@@ -7,7 +7,7 @@ cycle, with each sub-team working on a different application or project. This me
 
 We track all our work in github issues and zenhub boards. Each project has a github repository. In most cases the issues from that repository are organized into columns on the corresponding zenhub board. These resources are listed on the [List of Applications](https://github.com/pulibrary/app_team_handbook/blob/master/applications.md)
 
-At the beginning of each cycle we have a planning meeting to triage incoming
+At the end of each week, we have a planning meeting to triage incoming
 issues and decide which issues we will be working on during that cycle. Issues
 we plan to work during that cycle are placed in the "ready" column of the zenhub
 board. We order them roughly by priority. Over the course of the cycle individual developers will select issues, move them to the "in progress" column, and mark them assigned. When issues are complete they'll be closed.
