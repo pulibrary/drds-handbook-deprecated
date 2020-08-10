@@ -15,3 +15,7 @@
   - Sometimes pair code review is helpful.
   - Open issues in Github as needed (check if there is a similar issue to avoid duplicates).
 - Friday Wrap-up meeting: This meeting has an agenda with two sections: one focusing on the week's work that attendees populate with bullet points as representative summaries of their work that they wish to highlight in the meeting, and a section for the rest of the meeting’s agenda (additional items for discussion).  Non-DRDS attendees go first.  After this, the DRDS team assigns a runner and distribute ourselves to projects for the next week.  The team then self-organizes separate group meetings afterward for work planning, triaging tickets for the following week.
+
+## Maintenance Mondays
+
+We have recently begun focusing on software maintenance tasks on Mondays.  Tasks are triaged as GitHub issues on the [Maintenance Board](https://github.com/orgs/pulibrary/projects/4).  Maintenance tasks can be spread out over a series of Mondays if needed, and work cycles should still be scheduled for maintenance tasks that are time-consuming and/or require heavy collaboration with other teams.
