@@ -16,7 +16,7 @@
     - We generally follow the [Samvera Code Review](https://samvera.github.io/review.html) guidelines
   - Sometimes pair code review is helpful.
   - Open issues in Github as needed (check if there is a similar issue to avoid duplicates).
-- Friday Wrap-up meeting: This meeting has an agenda with two sections: one focusing on the week's work that attendees populate with bullet points as representative summaries of their work that they wish to highlight in the meeting, and a section for the rest of the meeting’s agenda (additional items for discussion).  After this, the DRDS team assigns a runner and distribute ourselves to projects for the next week.  Attendees then self-organize separate group meetings afterward for work planning, triaging tickets for the following week.  Cross-team attendees are always welcome.
+- Friday Wrap-up meeting: This meeting has an agenda with two sections: one focusing on the week's work that attendees populate with bullet points as representative summaries of their work that they wish to highlight in the meeting, and a section for the rest of the meeting’s agenda (additional items for discussion).  After this, the DRDS team assigns a runner and distribute ourselves to projects for the next week.  Meeting attendees then self-organize separate group meetings afterward for work planning, triaging tickets for the following week.  Cross-team attendees are always welcome.
 
 ## Maintenance Mondays
 
