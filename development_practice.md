@@ -4,7 +4,7 @@
 
 - In all meetings, cross-team attendees are always welcome.
 - Monday Planning meeting:
-  - This meeting is guided by a running agenda populated with specific GitHub issues based on the previous week's triaging, inbox triaging performed by individuals, or other specific questions.  Cross-team attendees are always welcome.  All other tickets are discussed in the order in which they are added to the agenda.
+  - This meeting is guided by a running agenda populated with specific GitHub issues based on the previous week's triaging, inbox triaging performed by individuals, or other specific questions.  Cross-team attendees are always welcome.  All tickets are discussed in the order in which they are added to the agenda.
 - Daily:
   - Check-in meetings: These are daily standups in the [Agile definition](https://www.tutorialspoint.com/agile/agile_daily_standup.htm).  Each attendee shares what they've been working on and what they plan to work on next, as well as any blockers or questions.  These meetings serve as status updates, and team members will coordinate additional discussion outside of the meeting.  Cross-team attendees are always welcome.
   - Self-assign an issue from the ready column for the project you're working
