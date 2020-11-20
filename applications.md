@@ -11,7 +11,7 @@
   * Technical slack channel: #orangelight
   * User-centered slack channel: #catalog
 * Cicognara-Rails - Blacklight and TEI/MARC app for a multi-institution project to virtually reconstruct a famous art history library
-  * https://www.cicognara.org/, https://cicognara-staging.princeton.edu
+  * https://cicognara.org/, https://cicognara-staging.princeton.edu
   * Github repository: https://github.com/pulibrary/cicognara-rails
   * MARC/TEI data reposiory: [https://github.com/pulibrary/cicognara-catalogo]
   * [Cicognara Zenhub board](https://app.zenhub.com/workspaces/cicognara-5cf11cb3689f9c7a4ead9571/board?repos=57136753)
