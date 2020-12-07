@@ -67,8 +67,13 @@
   * Github repository: https://github.com/pulibrary/pul_solr
   * Technical liaison: [Anna](https://github.com/hackmastera)
   * Slack channel: #solr
-* DSpace
-  * Github repository: https://github.com/pulibrary/dspace
+* DSpace - Institutional Data and Faculty Publications Repositories
+  * Institutional Data Repository (also includes graduate dissertations, student theses, and select periodicals): https://dataspace.princeton.edu
+  * Open Access Repository (for faculty publications): https://oar.princeton.edu
+  * Symplectic Elements (for scholarly publishing workflow management): https://oaworkflow.princeton.edu
+  * Open Access Waivers (for managing access to faculty publications): https://oawaiver.princeton.edu
+  * Development resources on GitHub: https://github.com/pulibrary/dspace-development
+  * [DSpace Zenhub board](https://github.com/pulibrary/dspace-development#workspaces/dspace-5eab07f305a942a2a8b38790/board?repos=189245556,260288351,267383329)
   * Technical liaison: [James](https://github.com/jrgriffiniii)
   * Technical slack channel: #operations
   * User-centered slack channel: #dspace
