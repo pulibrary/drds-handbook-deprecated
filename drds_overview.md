@@ -39,11 +39,4 @@ Our team of 5.5 developers and 1 manager works primarily remotely.
 * Friday Wrap-up meeting (1 hr):
   * This meeting has an agenda with two sections: one focusing on the week's work that attendees populate with bullet points as representative summaries of their work that they wish to highlight in the meeting, and a section for the rest of the meeting’s agenda (additional items for discussion). After this, the DRDS team assigns a [runner](/runner.md) and distribute ourselves to projects for the next week. Meeting attendees then self-organize separate group meetings afterward for work planning, triaging tickets for the following week. Cross-team attendees are always welcome.
 * Twice yearly team retrospectives (several hours):
-  * Twice a year as part of our "All Hands" meetings we have time as a team to
-    conduct a retrospective of our team process. This is an opportunity for
-    everyone to share what is going well on our team and what's not working, and
-    re-evaluate any process that we've put in place to deal with pain points to
-    find out whether they're working. This is often a full afternoon, and
-    sometimes results in follow-up meetings as well. We leave these meetings
-    with specific changes to our process (often reflected in this handbook) to
-    address the issues we discussed.
+  * Twice a year as part of our "All Hands" meetings we have time as a team to conduct a retrospective of our team process. This is an opportunity for everyone to share what is going well on our team and what's not working, and re-evaluate any process that we've put in place to deal with pain points to find out whether they're working. This is often a full afternoon, and sometimes results in follow-up meetings as well. We leave these meetings with specific changes to our process (often reflected in this handbook) to address the issues we discussed.
