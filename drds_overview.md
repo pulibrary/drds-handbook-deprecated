@@ -1,6 +1,6 @@
 # DRDS Overview
 
-Our team of 5.5 developers and 1 manager works primarily remotely.
+Our team of 7.5 developers and 1 manager works primarily remotely.
 
 ## Communication channels
 
