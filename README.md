@@ -6,6 +6,7 @@
 1. [Product Owners](/product_owners.md)
 1. [Work Cycles](/work_cycles.md) - The rhythms and processes of our project work
 1. [Creating Issues](/creating_issues.md)
+1. [Project Kickoffs](/project_kickoffs.md)
 
 ## Documentation most useful to members of our team
 1. [DRDS Overview](/drds_overview.md) - About our team and how we work together
