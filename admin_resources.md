@@ -8,6 +8,9 @@
 * Put it on your own Outlook calendar
 * Enter it in [self service](http://www.princeton.edu/hr/progserv/sds/applications/selfservice.html)
 * Mention to colleagues the day before or as needed just so they don't wonder where you are.
+  * There is a calendar called it-away that shows vacation time for everyone in
+    it, maintained at the manager level. It can be useful if you're wondering
+    about other people's vacation schedules.
 
 ## Travel
 * Travel for conferences and professional development is encouraged (within reason), both within the library community, and in the broader IT/tech world
