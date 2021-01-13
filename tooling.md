@@ -16,11 +16,10 @@
 
 ## Individual Tools
 
-* Editors used on our team include: vim, VSCode, TextMate
-* Many of us use asdf for language version management. Some prefer rvm, nvm, and pyenv
-* We all use tmux for terminal management on servers, and many of us use it
-  locally
-* Other tools used by members of our team include: zsh, [rcm dotfiles management](https://github.com/thoughtbot/rcm), [thoughtbot's dotfiles](https://github.com/thoughtbot/dotfiles), [oh my zsh](https://ohmyz.sh/), snagit
+* __Editors__: Several members of DRDS use vim. Also represented are VSCode and TextMate. In #dev you can find people who use other editors, such as emacs and Oxygen.
+* __Language version management__: Many of us use asdf. Also represented are rvm, nvm, and pyenv.
+* __Terminal management__: We all use tmux for terminal management on servers, and many of us use it locally.
+* __Other tools__ used by members of our team include: zsh, [rcm dotfiles management](https://github.com/thoughtbot/rcm), [thoughtbot's dotfiles](https://github.com/thoughtbot/dotfiles), [oh my zsh](https://ohmyz.sh/), snagit
 
 We frequently share new tooling discoveries and tips between teams at our all-hands
 meetings.
