@@ -14,5 +14,6 @@
 1. [Triaging Issues](/triaging_issues.md)
 1. [Tooling](/tooling.md)
 1. [Runner](/runner.md) - The nature and duties of the rotating "runner" role
+1. [Onboarding](/onboarding.md) - Onboarding information for new team members
 1. [Incident Response](/incident_response.md)
 1. [Administrative Resources](/admin_resources.md) - Resources and information about paid time off, travel, expense reporting, etc.
