@@ -4,9 +4,10 @@
 
 ## in Production
 
-* Bibdata, aka Marc Liberation
-  * Github repository: https://github.com/pulibrary/marc_liberation
-  * [Orangelight / Marc Liberation Zenhub board](https://app.zenhub.com/workspaces/orangelightmarcliberation-571691cab409d8d821b873be/board?repos=21954918)
+* Bibdata
+  * Github repository: https://github.com/pulibrary/bibdata
+  * [Orangelight / Bibdata Zenhub board](https://app.zenhub.com/workspaces/orangelightbibdatarequests-571691cab409d8d821b873be/board?repos=21954918)
+  * [Alma migration Zenhub board](https://app.zenhub.com/workspaces/alma-5eaaccbebbdc9416d23ddea1/board?repos=70531088,21954918,29558978,47136789,261477239)
   * Technical liaison: [Christina](https://github.com/christinach)
   * Technical slack channel: #orangelight
   * User-centered slack channel: #catalog
@@ -18,9 +19,9 @@
   * Technical liaison: [Esmé](https://github.com/escowles), transfer to [Trey](https://github.com/tpendragon)
   * Technical slack channel: #cicognara
   * User-centered slack channel: #digital_library
-* DPUL, aka Pomegranate - Spotlight exhibits for showcasing Figgy content
+* DPUL (Digital PUL) - Spotlight exhibits for showcasing Figgy content
   * https://dpul.princeton.edu/, https://dpul-staging.princeton.edu/
-  * Github repository: https://github.com/pulibrary/pomegranate
+  * Github repository: https://github.com/pulibrary/dpul
   * [DPUL Zenhub board](https://app.zenhub.com/workspaces/dpul-5cc9dbb2262a972347170639/board?repos=49439415&showEstimates=false&showReleases=false)
   * Technical liaison: [Anna](https://github.com/hackmastera)
   * Product owner: [Kim](https://github.com/kelea99)
@@ -49,7 +50,7 @@
 * Orangelight - our blacklight catalog (aka The Catalog)
   * https://catalog.princeton.edu/, https://catalog-staging.princeton.edu/
   * Github repository: https://github.com/pulibrary/orangelight
-  * [Orangelight / Marc Liberation Zenhub board](https://app.zenhub.com/workspaces/orangelightmarcliberation-571691cab409d8d821b873be/board?repos=21954918)
+  * [Orangelight / Bibdata Zenhub board](https://app.zenhub.com/workspaces/orangelightbibdatarequests-571691cab409d8d821b873be/board?repos=21954918)
   * Technical liaison: [Christina](https://github.com/christinach)
   * Technical slack channel: #orangelight
   * User-centered slack channel: #catalog
@@ -106,7 +107,7 @@ Many applications led / managed by other teams are relevant to our work.
   * [General Technical Docs](https://htcrecap.atlassian.net/wiki/spaces/RTG/pages/2129960/Technical+Documentation)
   * [Documentation for RESTful API](https://htcrecap.atlassian.net/wiki/spaces/RTG/pages/2129950/RESTful+Services)
   * [SCSB related code](https://github.com/ResearchCollectionsAndPreservation ) is open source
-  * In Marc Liberation: we use https://htcrecap.atlassian.net/wiki/spaces/RTG/pages/23232564/Item+Availability+Status
+  * In Bibdata: we use https://htcrecap.atlassian.net/wiki/spaces/RTG/pages/23232564/Item+Availability+Status
   * In the Requests gem we use https://htcrecap.atlassian.net/wiki/spaces/RTG/pages/25438542/Request+Item
   * [Staff Backend](https://scsb.recaplib.org/)
   * [Staff Backend UAT](https://uat-recap.htcinc.com/)
