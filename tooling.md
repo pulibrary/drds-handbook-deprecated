@@ -19,7 +19,9 @@
 * __Editors__: Several members of DRDS use vim. Also represented are VSCode and TextMate. In #dev you can find people who use other editors, such as emacs and Oxygen.
 * __Language version management__: Many of us use asdf. Also represented are rvm, nvm, and pyenv.
 * __Terminal management__: We all use tmux for terminal management on servers, and many of us use it locally.
-* __Other tools__ used by members of our team include: zsh, [rcm dotfiles management](https://github.com/thoughtbot/rcm), [thoughtbot's dotfiles](https://github.com/thoughtbot/dotfiles), [oh my zsh](https://ohmyz.sh/), snagit
+* __Wireframing and Diagraming__: We have institutional access to Adobe XD and Lucid Charts. We often use Google Drawings. Another option used on our team is snagit.
+* __Browser testing__: We have a few licenses for BrowserStack.
+* __Other tools__ used by members of our team include: zsh, [rcm dotfiles management](https://github.com/thoughtbot/rcm), [thoughtbot's dotfiles](https://github.com/thoughtbot/dotfiles), [oh my zsh](https://ohmyz.sh/)
 
 We frequently share new tooling discoveries and tips between teams at our all-hands
 meetings.
