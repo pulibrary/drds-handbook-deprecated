@@ -33,11 +33,15 @@ Our team of 7.5 developers and 1 manager works primarily remotely.
 ## Scheduled Meetings
 
 * Monday Planning meeting (up to 1 hr):
+  * The running agenda is available in the [ITIMS - Checkins folder on Google Drive](https://drive.google.com/drive/folders/1KRp9AavImqMu-cslyPHPbaKNoR-eLXB8).
   * This meeting is guided by a running agenda populated with specific GitHub issues based on the previous week's triaging, inbox triaging performed by individuals, or other specific questions. All tickets are discussed in the order in which they are added to the agenda. Cross-team attendees are always welcome.
 * Tuesday - Thursday Check-in meetings (15 minutes):
+  * The running agenda is available in the [ITIMS - Checkins folder on Google Drive](https://drive.google.com/drive/folders/1KRp9AavImqMu-cslyPHPbaKNoR-eLXB8).
   * These are daily check-ins to tell if someone is [blocked](https://www.solutioneers.co.uk/blockers/) in their work.  There is a brief round robin at the top, where each team member shares the GitHub ID number and title of issue they're working on, and specifies whether or not they are blocked.  If a team member is working on something that does not / does not yet have a GitHub issue associated with it, they describe very briefly (as in, the length of an issue title) what they are working on, and whether or not they are blocked.  If someone reports being blocked, their item for follow-up goes onto the top of the check-ins' running agenda for discussion after the round robin.  Leftover items on the agenda at the end of the meeting are carried to the next one as appropriate.
   * Cross-team attendees are always welcome.
 * Friday Wrap-up meeting (1 hr):
+  * The running agenda is available in the [ITIMS - Checkins folder on Google Drive](https://drive.google.com/drive/folders/1KRp9AavImqMu-cslyPHPbaKNoR-eLXB8).
+  * The agenda/notes for this meeting are posted every Friday to the #devs Slack channel as a reminder.
   * This meeting has an agenda with two objectives: an agenda-driven meeting, and a written section that attendees populate with bullet points as representative summaries of their work for the week that they wish to highlight in the meeting.  The written section is open for review and questions that can be added to the agenda, however it is not read aloud.
   * Anyone attending is welcome to add to the agenda that drives the meeting.  The meeting leads with agenda items from cross-team collaborators, and can also be built during the meeting.
   * After this, the DRDS team assigns a [runner](/runner.md) and distribute ourselves to projects for the next week.
