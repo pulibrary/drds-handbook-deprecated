@@ -9,11 +9,18 @@
 1. [Project Kickoffs](/project_kickoffs.md)
 
 ## Documentation most useful to members of our team
+
+Process
+
 1. [DRDS Overview](/drds_overview.md) - About our team and how we work together
-1. [Development Practice](/development_practice.md)
-1. [Triaging Issues](/triaging_issues.md)
-1. [Tooling](/tooling.md)
-1. [Runner](/runner.md) - The nature and duties of the rotating "runner" role
 1. [Onboarding](/onboarding.md) - Onboarding information for new team members
+1. [Development Practice](/development_practice.md)
+1. [Runner](/runner.md) - The nature and duties of the rotating "runner" role
+1. [Triaging Issues](/triaging_issues.md)
 1. [Incident Response](/incident_response.md)
+
+Reference
+
+1. [Acronym](/acronyms.md)
+1. [Tooling](/tooling.md)
 1. [Administrative Resources](/admin_resources.md) - Resources and information about paid time off, travel, expense reporting, etc.
