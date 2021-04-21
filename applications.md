@@ -64,6 +64,12 @@
   * Github repository: https://github.com/pulibrary/heaven
   * Technical liaison: [Trey](https://github.com/tpendragon), transfer to [Christina](https://github.com/christinach)
   * Slack channels: #robots, #devs
+* PULFALight - Local instance of arclight
+  * Github repository: https://github.com/pulibrary/pulfalight
+  * [PULFALight Zenhub board](https://app.zenhub.com/workspaces/pulfalight-5da4b7d9f037f100019dba23/board?repos=157741631)
+  * Technical liaison: [James](https://github.com/jrgriffiniii)
+  * Product owners: [Faith](https://github.com/faithc) and [Amanda](https://github.com/apferrar)
+  * Slack channel: #pulfalight
 * PUL-Solr - Central repository of solr configs for our apps
   * Github repository: https://github.com/pulibrary/pul_solr
   * Technical liaison: [Anna](https://github.com/hackmastera)
@@ -82,12 +88,7 @@
 
 # In Development
 
-* PULFALight - Local instance of arclight
-  * Github repository: https://github.com/pulibrary/pulfalight
-  * [PULFALight Zenhub board](https://app.zenhub.com/workspaces/pulfalight-5da4b7d9f037f100019dba23/board?repos=157741631)
-  * Technical liaison: [James](https://github.com/jrgriffiniii)
-  * Product owners: [Faith](https://github.com/faithc) and [Amanda](https://github.com/apferrar)
-  * Slack channel: #pulfalight
+
 
 ## Other Applications
 
