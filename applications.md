@@ -69,6 +69,7 @@
   * Slack channel: #solr
 * DSpace
   * Github repository: https://github.com/pulibrary/dspace
+  * There are many repos built off DSpace to aid with statistics reporting, collection and user management, bulk ingest, and regulatory compliance. [Read more here.](https://dspace-development.readthedocs.io/en/latest/index.html)
   * Tech lead: [James](https://github.com/jrgriffiniii)
   * Technical slack channel: #operations
   * User-centered slack channel: #dspace
