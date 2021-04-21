@@ -70,6 +70,7 @@
   * Slack channel: #solr
 * DSpace - Institutional Data and Faculty Publications Repositories
   * Institutional Data Repository (also includes graduate dissertations, student theses, and select periodicals): https://dataspace.princeton.edu
+  * There are many repos built off DSpace to aid with statistics reporting, collection and user management, bulk ingest, and regulatory compliance. [Read more here.](https://dspace-development.readthedocs.io/en/latest/index.html)
   * Open Access Repository (for faculty publications): https://oar.princeton.edu
   * Symplectic Elements (for scholarly publishing workflow management): https://oaworkflow.princeton.edu
   * Open Access Waivers (for managing access to faculty publications): https://oawaiver.princeton.edu
