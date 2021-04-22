@@ -88,7 +88,9 @@
 
 # In Development
 
-
+* openpublishing - PUL instance of Open Journal System. Maintained in collaboration with Kevin Reiss's group.
+  * Github repository: https://github.com/pulibrary/openpublishing
+  * Technical liaison: [Bess](https://github.com/bess)
 
 ## Other Applications
 
