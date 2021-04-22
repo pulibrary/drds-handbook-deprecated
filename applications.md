@@ -88,6 +88,11 @@
 
 # In Development
 
+* openpublishing - PUL instance of Open Journal System. Maintained in collaboration with Kevin Reiss's group.
+  * Github repository: https://github.com/pulibrary/openpublishing
+  * Technical liaison: [Bess](https://github.com/bess)
+  * Product owner: Yuan Li
+  * User-centered slack channel: #research_data_management
 
 
 ## Other Applications
