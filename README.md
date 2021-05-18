@@ -16,6 +16,7 @@ Process
 1. [Onboarding](/onboarding.md) - Onboarding information for new team members
 1. [Development Practice](/development_practice.md)
 1. [Runner](/runner.md) - The nature and duties of the rotating "runner" role
+1. [Student Developers](/student_developers.md)
 1. [Triaging Issues](/triaging_issues.md)
 1. [Incident Response](/incident_response.md)
 
