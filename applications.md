@@ -47,6 +47,11 @@
   * Github repository: https://github.com/pulibrary/pulmap
   * [Pulmap Zenhub board](https://app.zenhub.com/workspaces/pulmap-5cf5538c08e7e9307cd79c45/board?repos=26446857)
   * Technical liaison: [Eliot](https://github.com/eliotjordan)
+* openpublishing - PUL instance of Open Journal System. Maintained in collaboration with Kevin Reiss's group.
+  * Github repository: https://github.com/pulibrary/openpublishing
+  * Technical liaison: [Bess](https://github.com/bess)
+  * Product owner: Yuan Li
+  * User-centered slack channel: #research_data_management
 * Orangelight - our blacklight catalog (aka The Catalog)
   * https://catalog.princeton.edu/, https://catalog-staging.princeton.edu/
   * Github repository: https://github.com/pulibrary/orangelight
@@ -88,11 +93,11 @@
 
 # In Development
 
-* openpublishing - PUL instance of Open Journal System. Maintained in collaboration with Kevin Reiss's group.
-  * Github repository: https://github.com/pulibrary/openpublishing
-  * Technical liaison: [Bess](https://github.com/bess)
-  * Product owner: Yuan Li
-  * User-centered slack channel: #research_data_management
+* AbID - Generates Absolute Identifiers for physical organization of materials on shelves for Princeton University Library and handles synchronization of those to ArchivesSpace.
+  * Github repository: https://github.com/pulibrary/abid
+  * Technical liaison: ??
+  * Slack channel: ??
+
 
 
 ## Other Applications
