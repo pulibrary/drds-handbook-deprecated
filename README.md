@@ -10,7 +10,7 @@
 
 ## Documentation most useful to members of our team
 
-Process
+### Process
 
 1. [DRDS Overview](/drds_overview.md) - About our team and how we work together
 1. [Onboarding](/onboarding.md) - Onboarding information for new team members
@@ -20,8 +20,13 @@ Process
 1. [Triaging Issues](/triaging_issues.md)
 1. [Incident Response](/incident_response.md)
 
-Reference
+### Reference
 
-1. [Acronym](/acronyms.md)
+1. [Acronyms](/acronyms.md)
 1. [Tooling](/tooling.md)
 1. [Administrative Resources](/admin_resources.md) - Resources and information about paid time off, travel, expense reporting, etc.
+
+### Cookbook
+Recipes for setting things up the DRDS way
+
+1. [Code coverage](cookbook/coverage.md)
