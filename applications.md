@@ -100,7 +100,8 @@
 * PDC Discovery - Princeton Data Commons discovery portal
   * Github repository: https://github.com/pulibrary/pdc_discovery
   * Technical liaison: [Bess](https://github.com/bess)
-  * Slack channel: #research_data_development
+  * Technical slack channel: #research_data_development
+  * User-centered slack channel: #research_data_management
 
 ## Other Applications
 
