@@ -4,6 +4,10 @@
 
 ## in Production
 
+* AbID - Generates Absolute Identifiers for physical organization of materials on shelves for Princeton University Library and handles synchronization of those to ArchivesSpace.
+  * Github repository: https://github.com/pulibrary/abid
+  * Technical liaison: ??
+  * Slack channel: ??
 * Bibdata
   * Github repository: https://github.com/pulibrary/bibdata
   * [Orangelight / Bibdata Zenhub board](https://app.zenhub.com/workspaces/orangelightbibdatarequests-571691cab409d8d821b873be/board?repos=21954918)
@@ -27,6 +31,17 @@
   * Product owner: [Kim](https://github.com/kelea99)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
+* DSpace - Institutional Data and Faculty Publications Repositories
+  * Institutional Data Repository (also includes graduate dissertations, student theses, and select periodicals): https://dataspace.princeton.edu
+  * There are many repos built off DSpace to aid with statistics reporting, collection and user management, bulk ingest, and regulatory compliance. [Read more here.](https://dspace-development.readthedocs.io/en/latest/index.html)
+  * Open Access Repository (for faculty publications): https://oar.princeton.edu
+  * Symplectic Elements (for scholarly publishing workflow management): https://oaworkflow.princeton.edu
+  * Open Access Waivers (for managing access to faculty publications): https://oawaiver.princeton.edu
+  * Development resources on GitHub: https://github.com/pulibrary/dspace-development
+  * [DSpace Zenhub board](https://github.com/pulibrary/dspace-development#workspaces/dspace-5eab07f305a942a2a8b38790/board?repos=189245556,260288351,267383329)
+  * Technical liaison: [James](https://github.com/jrgriffiniii)
+  * Technical slack channel: #operations
+  * User-centered slack channel: #dspace
 * Figgy - Samvera/Valkyrie app for managing ingest and workflow, generating IIIF
   * figgy.princeton.edu, figgy-staging.princeton.edu
   manifests for other apps
@@ -79,26 +94,14 @@
   * Github repository: https://github.com/pulibrary/pul_solr
   * Technical liaison: [Anna](https://github.com/hackmastera)
   * Slack channel: #solr
-* DSpace - Institutional Data and Faculty Publications Repositories
-  * Institutional Data Repository (also includes graduate dissertations, student theses, and select periodicals): https://dataspace.princeton.edu
-  * There are many repos built off DSpace to aid with statistics reporting, collection and user management, bulk ingest, and regulatory compliance. [Read more here.](https://dspace-development.readthedocs.io/en/latest/index.html)
-  * Open Access Repository (for faculty publications): https://oar.princeton.edu
-  * Symplectic Elements (for scholarly publishing workflow management): https://oaworkflow.princeton.edu
-  * Open Access Waivers (for managing access to faculty publications): https://oawaiver.princeton.edu
-  * Development resources on GitHub: https://github.com/pulibrary/dspace-development
-  * [DSpace Zenhub board](https://github.com/pulibrary/dspace-development#workspaces/dspace-5eab07f305a942a2a8b38790/board?repos=189245556,260288351,267383329)
-  * Technical liaison: [James](https://github.com/jrgriffiniii)
-  * Technical slack channel: #operations
-  * User-centered slack channel: #dspace
 
 # In Development
 
-* AbID - Generates Absolute Identifiers for physical organization of materials on shelves for Princeton University Library and handles synchronization of those to ArchivesSpace.
-  * Github repository: https://github.com/pulibrary/abid
-  * Technical liaison: ??
-  * Slack channel: ??
-
-
+* PDC Discovery - Princeton Data Commons discovery portal
+  * Github repository: https://github.com/pulibrary/pdc_discovery
+  * Technical liaison: [Bess](https://github.com/bess)
+  * Technical slack channel: #research_data_development
+  * User-centered slack channel: #research_data_management
 
 ## Other Applications
 
