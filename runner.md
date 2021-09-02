@@ -8,12 +8,23 @@ The Friday before:
 Each morning:
 - Look through new errors from the weekend / night before.
 
+Friday during:
+- Add an agenda item for the most impactful ticket to resolve for discussion at
+the end of the week. You will work this ticket the next week.
+
+Week after:
+- Work the ticket from the week before.
+
 When a new error comes in:
 - Quickly take a look at it to determine whether it is indicative of an incident
   that requires immediate response.
 
 Over the course of the week:
-- For each notification, spend up to 30 minutes investigating / diagnosing the error. If it can be resolved in that time, submit a PR resolving it. Otherwise, do your best to diagnose the problem and create a ticket for it. These tickets will default to the "inbox" pipelines in zenhub and be reviewed for priority by technical liaisons / product owners.
+- For each notification do your best to create a ticket in Github for it. Rename
+the title of the ticket to be descriptive and copy the long stack-trace into it,
+as well as any relevant environment information.
+- Keep tabs on which tickets come up a lot and would be most impactful for you
+to fix the following week.
 - The general goal is for each error to either have an associated PR, an associated issue describing what happened and what we might be able to do about it, or be resolved (often network issues can simply be resolved).
 
 ### Notes for new runners
