@@ -10,6 +10,20 @@ We work primarily from project boards in zenhub. Most [applications](/applicatio
 
 Our team considers ourselves "pairing-friendly." Several of us very much like to pair, and we all do pair at least sometimes. We've tried various ways of formalizing our pairing arrangements in the past. What currently works best is to invite someone to pair with you if you'd like. Pairing on code-review has also been a helpful practice on occasion.
 
+Some recommended reading:
+* [Slides about pairing best practices](https://docs.google.com/presentation/d/1-PhkB_uSPHrz4-eWI6R9AzLo1fGVWqcxMMdUlAWOvng/edit#slide=id.p)
+* [On Pair Programming from martinfowler.com](https://martinfowler.com/articles/on-pair-programming.html#HowToPair)
+* [How to get better at pair programming from thoughtbot](https://thoughtbot.com/blog/how-to-get-better-at-pair-programming) 
+
+Checklist for every time you pair:
+- [ ] Use an editor where you can both see the outline of the project.
+- [ ] Turn on absolute line numbers. 
+- [ ] Agree on task, scope, and intention. 
+- [ ] Set a timer. Remember to take breaks and swap drivers.
+- [ ] Keep the chat going. If you're driving, narrate what you're doing.
+- [ ] Use Co-authored-by lines in the commit message (This [.gitmessage](https://github.com/pulibrary/pul-the-hard-way/blob/main/gitmessage.md) file might be handy)
+- [ ] Check in afterwards about how it went. 
+
 ### Submitting code
 
 * Ensure code is arranged in logical, unitary commits unless you want it squash-merged.
