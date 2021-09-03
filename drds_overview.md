@@ -55,3 +55,5 @@ Our team of 7.5 developers and 1 manager works primarily remotely.
   * Library-Systems@princeton.edu - goes to all library systems: developers,
   * sysadmins, helpdesk, digitization studio
   * Lib-Prof-IT@princeton.edu - just developers, sysadmins, and managers
+* [Digital Collections and
+  Initiatives](https://library.princeton.edu/digital-collections/news) page of the library Website
