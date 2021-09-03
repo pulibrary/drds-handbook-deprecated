@@ -30,6 +30,11 @@ Our team of 7.5 developers and 1 manager works primarily remotely.
   * Try to go to conferences together
   * All-IT (aka "All Hands") meetings on campus twice a year
 
+## Documentation
+* This repo
+* https://github.com/pulibrary/pul-the-hard-way
+* Library-wide [confluence wiki](https://lib-confluence.princeton.edu)
+
 ## Scheduled Meetings
 
 * Monday Planning meeting (up to 1 hr):
